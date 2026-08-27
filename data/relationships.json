@@ -1,0 +1,65 @@
+[
+  {
+    "from": "e70ec8a8-eb3a-4498-850e-58546278964b",
+    "from_name": "OpenAI",
+    "relation": "develops",
+    "to": "b7cca986-2634-4f5c-ab4d-4109f247b6e4",
+    "to_name": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3"
+  },
+  {
+    "from": "e70ec8a8-eb3a-4498-850e-58546278964b",
+    "from_name": "OpenAI",
+    "relation": "develops",
+    "to": "80391269-1e23-46d3-b001-d9101b032a44",
+    "to_name": "private-gpt"
+  },
+  {
+    "from": "e70ec8a8-eb3a-4498-850e-58546278964b",
+    "from_name": "OpenAI",
+    "relation": "develops",
+    "to": "33385439-002a-489a-a1c6-a97b929a829f",
+    "to_name": "openai-edge-tts"
+  },
+  {
+    "from": "e70ec8a8-eb3a-4498-850e-58546278964b",
+    "from_name": "OpenAI",
+    "relation": "develops",
+    "to": "a9010b0e-b396-4cfa-b28e-7e3a9add549a",
+    "to_name": "gp.nvim"
+  },
+  {
+    "from": "e70ec8a8-eb3a-4498-850e-58546278964b",
+    "from_name": "OpenAI",
+    "relation": "develops",
+    "to": "fcd92165-ecd1-40e9-955c-3a8c191d5642",
+    "to_name": "Transformers-for-NLP-2nd-Edition"
+  },
+  {
+    "from": "e70ec8a8-eb3a-4498-850e-58546278964b",
+    "from_name": "OpenAI",
+    "relation": "develops",
+    "to": "8c0fcce3-9e1d-424e-b4a5-25ddddb982af",
+    "to_name": "openedai-speech"
+  },
+  {
+    "from": "e70ec8a8-eb3a-4498-850e-58546278964b",
+    "from_name": "OpenAI",
+    "relation": "develops",
+    "to": "3753c2e9-3ebb-4e38-b4f4-d5c05e4c7a33",
+    "to_name": "vault-ai"
+  },
+  {
+    "from": "e1243469-d509-4598-9096-1244d7b0714d",
+    "from_name": "Anthropic",
+    "relation": "develops",
+    "to": "a9010b0e-b396-4cfa-b28e-7e3a9add549a",
+    "to_name": "gp.nvim"
+  },
+  {
+    "from": "801bf3ce-6ad9-4a1d-b86c-bbd1ba223460",
+    "from_name": "Hugging Face",
+    "relation": "develops",
+    "to": "fcd92165-ecd1-40e9-955c-3a8c191d5642",
+    "to_name": "Transformers-for-NLP-2nd-Edition"
+  }
+]
